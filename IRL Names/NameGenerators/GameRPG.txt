@@ -1,0 +1,39 @@
+[REPLACE]
+-start(base, base2)
+-base(stop)
+Final Fantasy
+Warframe
+Vaheim
+Skyrim
+Divinity: Original Sin
+Elden Ring
+Path of Exile
+Crusader Kings
+New World
+Path Finder
+Dungeons & Dragons
+Nioh
+Mass Effect
+The Witcher
+Yakuza
+Elder Scrolls
+Fallout
+Deus Ex
+-base2(end)
+Lost
+War
+Rogue
+King
+Dark
+God
+Monster
+Sunless
+Gunfire
+Vampire
+-end(stop)
+ Legacy
+ Souls
+ Wars
+ Hunter
+ Reborn
+ City
