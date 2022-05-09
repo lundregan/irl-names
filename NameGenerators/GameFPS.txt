@@ -1,0 +1,35 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Battlefield
+Call of Duty
+Rainbowsix Siege
+Counter-Strike
+CSGO
+Rust
+Halo
+Wolfenstein
+PUBG
+Team Fortress
+Deep Rock
+Squad
+Escape From Trakov
+Arma
+Apex Legends
+Hell Let Loose
+Payday
+World War
+Insurgency
+Pavlov
+Ace of Combat
+Shadow Warrior
+Left 4 Dead
+Back 4 Blood
+Modern Warfare
+Bioshock
+Ravenfield
+Serious Sam
+Hunt Showdown
+Deathloop
+Killing Floor
+-end(stop)

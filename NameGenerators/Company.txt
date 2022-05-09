@@ -1,0 +1,79 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Zachtronics
+Arkane
+Bethesda
+Compulsion
+Double Fine
+ID
+Inxile
+MachineGames
+Mojang Studios
+Ninja Theory
+Obsidian
+Playground Games
+Rare
+Roundhouse Studios
+Tango Gameworks
+The Coalition
+The Initiative
+Turn 10 Studios
+Undead Labs
+World's Edge
+Zenimax Online
+Microsoft
+Tencent
+Unity
+EPIC
+Valve
+Double Fine
+IBM
+Sony
+Tencent
+Apple
+Activision
+Blizzard
+Nintendo
+Electronic Arts
+Bandai Namco Entertainment
+Konami
+Sega
+Alphabet
+Google
+Tesla
+Meta
+Facebook
+TSMC
+NVIDIA
+Samsung
+Alibaba
+ASML
+Cisco
+Oracle
+Adobe
+Qualcomm
+Texas Instruments
+Meituan
+SapWin
+Intuit
+Paypal
+Airbnb
+Netflix
+Micron Technology
+Tokyo Electron
+Equinix
+Atlassian
+Uber
+Just Eat
+Barclays
+METRO
+Shopify
+Meta
+Facebook
+Dell
+Electronics Arts
+Datadog
+Coinbase
+VeevaSystems
+-end(stop)

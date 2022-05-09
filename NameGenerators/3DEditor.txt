@@ -1,0 +1,94 @@
+[REPLACE]
+-start(base)
+-base(stop)
+3D-Coat
+3D Slash
+3DVIA
+AC3D
+Adobe Dimension
+Alibre Design
+Aladdin4D
+Amapi
+Anim8or Freeware Yes
+Animation:Master
+ArchiCAD
+Art of Illusion
+ArtMatic
+AutoCAD
+AutoQ3D
+AutoQ3D
+Autodesk 3ds Max
+Autodesk Inventor
+Autodesk Maya
+Autodesk Mudbox
+Autodesk Revit
+Autodesk Softimage
+Autodesk Fusion 360
+Bcad
+Blender
+BricsCAD
+BRL-CAD
+Bryce
+CATIA
+Carrara
+Cheetah3D
+Cinema 4D
+CityEngine
+Clara.io
+Daz Studio
+DesignSpark
+Electric
+Exa Corporation
+Flux
+Form-Z
+FreeCAD
+Geomodeller3D
+Hexagon
+Houdini
+IRONCAD
+KeyCreator
+LightWave 3D
+Makers Empire 3D
+MASSIVE
+Metasequoia
+MicroStation
+MikuMikuDance
+Milkshape 3D
+Modo
+NX
+Onshape
+Open CASCADE
+OpenSCAD
+Oculus Medium
+Poser
+PowerAnimator
+Promine
+Pro/ENGINEER
+Quake Army Knife
+Realsoft 3D
+Remo 3D
+RFEM
+Rhinoceros 3D
+ScanIP
+Sculptris
+Seamless3d
+SelfCAD
+Shade 3D
+SharkCAD
+Silo
+SketchUp
+Solid Edge
+solidThinking
+SolidWorks
+SpaceClaim
+Strata 3D
+Sweet Home 3D
+Swift 3D
+Tekla
+TrueSpace
+Wings 3D
+Wolfram Mathematica
+ViaCAD
+ZBrush
+Zmodeler
+-end(stop)

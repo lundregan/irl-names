@@ -1,0 +1,15 @@
+CompanyType
+	{
+	Specialization		"Illegal eCommerce Platform"
+	PerYear			0.2
+	Min			1
+	Max			1
+	Frameworks		True
+	Types
+		[
+			{
+			Software	"Game"
+			Chance		1
+			}
+		]
+	}

@@ -1,0 +1,219 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Brasero
+CDex
+Exact Audio Copy
+fre:ac
+k3b
+Cross
+CrossDJ
+Deckadance
+djay
+Final Scratch
+Mixxx
+Serato
+Ableton Live
+ACID Pro
+Ardour
+Audacity
+Audiotool
+Bitwig Studio
+Cakewalk by BandLab
+Cubase
+Digital Performer
+FL Studio
+GarageBand
+LMMS
+Logic Pro
+Maschine
+MetaSynth
+Mixcraft
+Nuendo
+Mixbus
+MuLab
+Orion Studio
+Pro Tools
+Qtractor
+ChucK
+Csound
+Director Musices
+List of Generative music software
+JFugue
+Kyma
+Keykit
+Max/MSP
+Pure Data
+Real-time_Cmix
+SuperCollider
+Airtime
+Audicom
+Campcaster
+Clickradio
+Juice
+Jamulus
+Moodagent
+Ninjam
+OpenBroadcaster
+Panopto
+SAM Broadcaster
+RapidFeeds
+Bitcrusher
+Chorus effect
+Delay
+Dither
+Jamstix
+Liquid Rhythm
+MachFive
+MCDSP
+Midijet pro
+Native Instruments's B4, Electrik Piano, Guitar Rig 2
+OrangeVocoder
+Producer Factory Pro Bundle
+SoundFont
+Symphonic Instrument
+TL Space Native Edition
+BeatRoot
+BRP-PACU
+Platinum Blue Music Intelligence
+Praat
+Sonic Visualiser
+WaveSurfer
+Arduinome
+CPU Sim
+Electric VLSI Design System
+gLogic
+GNU Circuit Analysis Package
+KTechLab
+Linear Technology
+List of free electronics circuit simulators
+LTspice
+Micro-Cap
+MIDIbox
+Monome
+Ngspice
+Oregano
+Quite Universal Circuit Simulator
+SapWin
+SPICE
+Tenori-on
+Antescofo
+Hyperscore
+Magix Music Maker
+Max
+Music Mouse
+Nodal
+Ocarina
+OpenMusic
+PetSynth
+Progression
+Reaktor
+Rubato Composer
+AIMP
+FFmpeg
+foobar2000
+FormatFactory
+Freemake Audio Converter
+Free Studio
+iTunes
+MediaCoder
+MediaHuman Audio Converter
+MediaMonkey
+SoX
+VLC Media Player
+Winamp
+WMA Convert
+XMedia Recode
+Soundtrap
+EarMaster
+GNU Solfege
+Rocksmith
+Synthesia
+Yousician
+Canorus
+Capella
+Denemo
+Dorico
+Encore
+ENT
+Finale
+Forte
+Frescobaldi
+Gregorio
+Guitar Pro
+Igor Engraver
+Impro-Visor
+jEdit plugin
+LilyPond
+MagicScore
+Mozart
+Mus2
+MusEdit
+MuseScore
+Music Write
+MusiCAD
+MusicEase
+Musink
+MusiXTeX
+NoteEdit
+Noteflight
+Notation Composer
+NoteWorthy Composer
+NOTION
+Overture
+Philip's Music Writer
+Power Tab Editor
+Rosegarden
+SCORE
+ScoreCloud
+Sibelius
+SmartScore
+TuxGuitar
+IRCAM
+Orchidée
+Radiodrum
+Anvil Studio
+Ensoniq PARIS
+FL Studio Mobile
+Sound Forge
+SpectraLayers
+WaveLab
+Renoise
+OpenMPT
+SoundTracker
+MilkyTracker
+Buzztrax
+Psycle
+Adobe Audition
+Adobe Premiere Elements
+Adobe Premiere Pro
+Acoustica Mixcraft
+AudioMulch
+Band-in-a-Box
+Bidule
+GoldWave
+Jeskola Buzz
+Max MSP
+ModPlug Tracker
+MultitrackStudio
+n-Track Studio
+REAPER
+Reason
+Samplitude
+Sony Acid Pro
+Sony Sound Forge
+Sony Vegas
+Steinberg Cubase
+Steinberg Nuendo
+Studio One
+Steinberg Wavelab
+Traktor
+Vocaloid
+WavePad Audio Editor
+Podium
+Amsynth
+Minimoog
+ZynAddSubFX
+Audition
+Goldwave
+-end(stop)

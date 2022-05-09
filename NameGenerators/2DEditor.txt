@@ -1,0 +1,122 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Motion
+TupiTube
+Synfig
+Harmony
+Pencil2D
+Krita
+Tone Map
+17LIVE
+Creative Suite
+Lightroom
+Photoshop
+Affinity Photo
+AndreaMosaic
+Aperture
+Apple Photos
+Artipic
+Aurora HDR
+AutoCollage 2008
+Aviary
+Bibble
+Capture NX
+Capture One
+Convoz
+Adobe Creative Cloud
+CyberLink MediaShow
+DBGallery
+Digital darkroom
+Digital Photo Professional
+DxO
+DxO ViewPoint
+EasyHDR
+Enlight Quickshot
+EyeEm
+Face of the Future
+FaceApp
+Facetune
+FantaMorph
+Fatpaint
+Fishbrain
+FlexiLivre
+Fotoflexer
+Fotografix
+FotoMagico
+FX Photo Studio
+Fyuse
+GPhoto
+Group Shot
+Helicon Filter
+Helicon Focus
+Helicon Photo Safe
+Hugin (software)
+Image Composite Editor
+Inpaint
+Instagram
+IPhoto
+IrfanView
+Iridient Developer
+Jeremy Renner Official
+LazPaint
+Lightricks
+Luminance HDR
+Luminar
+MeituPic
+MetaLith
+Microsoft Picture It!
+Mirage World (app)
+Mixbook
+Moment.me
+MorphThing
+Neat Image
+Nik Software
+Noise Ninja
+Noiseware
+Paint.net
+PaintShop Pro
+Panoweaver
+PH7Builder
+Photo slideshow software
+Photodex
+PhotoGrid
+Photomath
+Photopea
+PhotoPerfect
+PhotoScape
+Photosynth
+PhotoToMovie
+Picas
+PicMonkey
+Picnik
+Pics.io
+Picsart
+Picture Motion Browser
+PicturesToExe
+Piwigo
+Pixelpost
+Polarr
+Portrait Professional
+Prequel app
+Prisma
+Process
+PTGui
+QuickTime VR
+RoundMe
+Scanitto
+SecureTribe
+Serif PhotoPlus
+SilverFast
+Skylum
+TopoFusion
+ViewMinder
+VoxWeb
+VSCO
+VueScan
+WallaMe
+WideAngle
+Windows Photo Gallery
+Wombo
+Word Lens
+-end(stop)

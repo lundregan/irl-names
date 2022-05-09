@@ -1,0 +1,21 @@
+[REPLACE]
+-start(base)
+-base(stop)
+HSBC
+BNP
+Barclays
+Mastercard
+Goldman Sachs
+NatWest
+Standard Chartered
+NationWide
+JPMorgan Chase & Co
+Morgan Stanley
+CHASE
+Bank of England
+Federal Reserve
+Deutsche Bank
+Lloyds
+MONZO
+Sterling
+-end(stop)

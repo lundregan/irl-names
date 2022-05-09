@@ -1,0 +1,28 @@
+-start(base)
+-base(end, stop)
+iPhone
+Galaxy
+Redmi
+Oppo
+Mate
+Pixel
+Oneplus
+Nothing
+ROG
+Blackberry
+Chrry
+Fairphone
+ZenPhone
+Dream
+Magic
+Legend
+Evo
+Explorer
+Desire
+Vibe
+-end(stop)
+ Pro
+ S
+ Note
+ X
+ Ultra

@@ -1,0 +1,466 @@
+[REPLACE]
+-start(base)
+-base(stop)
+ARX
+MOS
+RISC OS
+Fire OS
+AmigaOS
+SymbOS
+ProDOS
+Contiki
+SOS
+Lisa
+Classic Mac OS
+Copland
+MkLinux
+Pink
+Rhapsody
+macOS
+IBM AIX
+Newton OS
+iOS
+iPadOS
+watchOS
+Apple TV
+tvOS
+Rose
+bridgeOS
+Domain OS
+Atari Dos
+XTS-400
+BeOS
+BeIA
+magnussoft
+Unix
+MINI-UNIX
+Unix System
+BESYS
+Burroughs
+GEOS
+AROS
+SCOPE
+Chippewa
+MACE
+Kronos
+Kronographic OS
+SIPROS
+CloudMosa
+Puffin OS
+Cromemco
+Cromix
+RDOS
+Datapoint
+CTOS
+Deos
+HeartOS
+Siemens
+FlexOS
+CCI
+Datapac
+Caldera
+RSX-11
+RT-11
+TOPS-10
+TENEX
+TOPS-20
+DEC MICA
+Digital UNIX
+Ultrix
+VMS
+WAITS
+OSE
+Towns OS
+XSP
+OS/IV
+MSP
+MSP-EX
+GCOS
+Multics
+Chromium OS
+Chrome OS
+Android
+gLinux
+Fuchsia
+Wear OS
+INTEGRITY
+µ-velOSity
+Harris
+Vulcan OS
+Heathkit
+Honeywell
+CP-6
+Harmony OS
+LiteOS
+iRMX
+ISIS
+FORTRAN
+Phoenix
+Virtual Machine
+ACP
+OpenSolaris
+UTS
+eComStation
+ArcaOS
+SerIX
+DPCX
+DPPX
+SSP
+CPF
+AIX
+Workplace OS
+K42
+Dynix
+J
+MultiJob
+GEORGE
+Executive
+TME
+ICL VME
+VME/K
+Jide
+Remix OS
+Jolla
+Sailfish OS
+KaiOS
+Lynx
+LynxOS
+Meizu
+Flyme OS
+Micrium
+MicroC
+Xenix
+MS-DOS
+MSX-DOS
+DOS/V
+OS/2
+Windows NT
+Windows RT
+Windows Server
+Windows CE
+Windows Embedded
+Windows Embedded Compact
+Windows Mobile
+Xbox system software
+Singularity
+Midori
+Azure Sphere
+ThreadX
+MITS
+Altair DOS
+MontaVista
+Mobilinux
+NCR
+TMX
+IMOS
+VRX
+NeXT
+ES
+Wii system software
+NetWare
+UnixWare
+SuperNOS
+Exposé
+Open Enterprise Server
+Aurora OS
+Quadros
+RTXC
+RCA
+TSOS
+RoweBots
+DSPnano
+Bada
+One UI
+SCO
+SCO Unix
+SCO Open Desktop
+SCO Open Server
+Scientific Data Systems
+Sinclair
+Sony
+PlayStation system software
+SYSGO
+PikeOS
+NonStop OS
+TRSDOS
+Color BASIC
+NewDos/80
+DeskMate
+TCSC
+Edos
+TI-RTOS
+TRON
+T-Kernel
+UNIVAC
+EXEC
+VS/9
+OIS
+Wind River Systems
+VxWorks
+Zilog
+Z80-RIO
+ANDOS
+CSI-DOS
+MK-DOS
+Pilot
+PERQ
+Эльбрус
+EOS
+EMBOS
+MAI Basic Four
+MUSIC/SP
+PC-MOS/386
+Prolog-Dispatcher
+SINTRAN III
+SkyOS
+SODA
+THEOS
+TSX-32
+TX990/TXDS
+DX10
+DNOS
+Aegis
+Amiga Unix
+Coherent
+DC/OSx
+DG/UX
+DNIX
+DSPnano RTOS
+HeliOS
+IRIX
+MeikOS
+NeXTSTEP
+OS-9
+OS9/68K
+OS-9000
+OSF/1
+OPENSTEP
+QNX
+RISC iX
+RISC/os
+RMX
+SCO UNIX
+SINIX
+Solaris
+SunOS
+SUPER-UX
+System V
+Trusted Solaris
+UniFLEX
+Unicos
+UTX-32
+Zenix
+MINIX
+BSD
+FreeBSD
+DragonFlyBSD
+MidnightBSD
+GhostBSD
+TrueOS
+NomadBSD
+NetBSD
+OpenBSD
+Bitrig
+Isotop
+Darwin
+GNU
+Linux
+Redox
+illumos
+OpenIndiana
+Nexenta OS
+SmartOS
+RTEMS
+Syllable Desktop
+VSTa
+Plurix
+TUNIS
+Xv6
+SerenityOS
+Cosmos
+FreeDOS
+Genode
+Ghost OS
+Haiku
+osFree
+OSv
+Phantom OS
+ReactOS
+SharpOS
+TempleOS
+Visopsys
+Inferno
+Research Unix
+Amoeba
+Barrelfish
+Croquet
+EROS
+CapROS
+Harmony
+HelenOS
+House
+ILIOS
+L4
+Mach
+Nemesis
+Spring
+THE multiprogramming system
+Thoth
+V
+Verve
+Xinu
+86-DOS
+PC DOS
+Concurrent DOS
+CCI Multiuser
+Datapac Multiuser DOS
+Datapac System Manager
+IMS Multiuser DOS
+IMS REAL/32
+IMS REAL/NG
+DR DOS
+DRMK
+Novell
+DR-DOS
+WinBolt
+OEM DR-DOS
+PTS-DOS
+TurboDOS
+DESQview
+DESQView/X
+Banyan VINES
+Cambridge Ring
+Cisco IOS
+Cisco NX-OS
+Data ONTAP
+ExtremeWare
+ExtremeXOS
+Fabric OS
+JunOS
+NOS
+Novell Open Enterprise Server
+Plan 9
+SONiC
+Generic
+BLIS/COBOL
+A2
+BS1000
+Graphics Environment Manager
+JavaOS
+JNode
+KERNAL
+MERLIN for the Corvus Concept
+MorphOS
+MSP by Fujitsu
+Oberon
+OSD/XC by Fujitsu-Siemens
+OS-IV by Fujitsu
+Pick
+PRIMOS by Prime Computer
+Sinclair QDOS
+SSB-DOS
+Symobi
+TripOS
+UCSD
+VOS
+VOS3
+VM2000
+Visi
+VPS/VM
+Hobby
+Main article
+AtheOS
+BareMetal
+EmuTOS
+LSE/OS
+MenuetOS
+KolibriOS
+ToaruOS
+PonyOS
+DIP DOS
+Embedded Linux
+EMUI
+MIUI
+Replicant
+LineageOS
+Firefox OS
+Ångström distribution
+Familiar Linux
+Mæmo
+OpenZaurus
+webOS
+bada
+Openmoko Linux
+OPhone
+MeeGo
+MotoMagx
+Qt Extended
+Tizen
+Ubuntu Touch
+PostmarketOS
+Magic Cap
+Palm OS
+PEN/GEOS
+PenPoint OS
+PVOS
+Symbian OS
+EPOC
+Pocket PC
+Windows Phone
+iPod software
+iPodLinux
+iriver clix OS
+RockBox
+BlackBerry OS
+GEOS-SC
+GEOS-SE
+Symbian platform
+BlackBerry 10
+Routers
+CatOS
+IOS-XR
+LCOS
+OpenWrt
+DD-WRT
+LEDE
+Gargoyle
+LibreCMC
+Zeroshell
+RTOS
+m0n0wall
+OPNsense
+pfsense
+Other embedded
+Apache Mynewt
+ChibiOS/RT
+ERIKA Enterprise
+eCos
+Nucleus RTOS
+NuttX
+Minix
+NCOS
+freeRTOS
+openRTOS
+safeRTOS
+OpenEmbedded
+pSOS
+REX OS
+RIOT
+ROM-DOS
+TinyOS
+RT-Thread
+Windows IoT
+Wind River VxWorks RTOS
+Wombat
+Zephyr
+LEGO Mindstorms
+brickOS
+leJOS
+Capability-based
+Cambridge CAP computer
+HYDRA
+KeyKOS nanokernel
+EROS microkernel
+CapROS EROS successor
+Flex Machine
+-end(stop)

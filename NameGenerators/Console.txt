@@ -1,0 +1,25 @@
+[REPLACE]
+-start(base)
+-base(stop)
+PlayStation
+Xbox
+Gameboy
+DS
+Switch
+Wii
+NES
+Mega Drive
+Genesis
+GameCube
+Dreamcast
+Vita
+Steamdeck
+Pico
+N-Gage
+Telstar
+Atari
+SNES
+64
+PSX
+Ouya
+-end(stop)

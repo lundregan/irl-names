@@ -1,0 +1,35 @@
+[REPLACE]
+-start(base)
+-base(end, stop)
+Yii
+Lumen
+React
+Angular
+Ember
+Meteor
+Visualiser
+Gatsby
+Jquery
+Nuxt
+Phoenix
+Elixir
+Apache
+Express
+Flutter
+Dart
+Ionic
+Sass
+Assembly
+Kotlin
+Swift
+Ruby
+-end(stop)
+ API
+ Engine
+ SDK
+ Libary
+ Framework
+ Native
+.NET
+.js
+ Lang
