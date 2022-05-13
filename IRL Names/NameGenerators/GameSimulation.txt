@@ -1,0 +1,36 @@
+[REPLACE]
+-start(base, base2)
+-base(stop)
+Cities: Skylines
+Totally Accurate Battle Simulator
+Game Dev Tycoon
+Dyson Sphere Program
+Tabletop Simulator
+The Sims
+Universe Sandbox
+Space Engineers
+Door Kickers
+Prison Architect
+Rimworld
+Banished
+Software INC
+Job Simulator
+Foundation
+Rocksmith
+Mudrunner
+Spore
+-base2(end)
+Gas Station
+Farming
+Mining
+Football
+Rugby
+Cricket
+Baseball
+Car Mechanic
+-end(stop)
+ World
+ Simulator
+ Planet
+ Tycoon
+ Manager
