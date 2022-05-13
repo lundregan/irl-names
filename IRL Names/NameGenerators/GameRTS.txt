@@ -1,0 +1,41 @@
+[REPLACE]
+-start(base, base2)
+-base(stop)
+Starcraft
+Drone Swarm
+Dune: Spice Wars
+Total War
+Warpips
+Warno
+Diplomacy Is Not An Option
+Steel Division
+Command & Conquer
+Line War
+Territorial
+Halo Wars
+Iron Harvest
+Carrier Commander
+Rise of Nations
+Supreme Commander#
+Northgard
+Godus
+Taur
+Homeworld
+-base2(end)
+Age of
+Dawn of
+Company of
+Sins of
+Conflict of
+Empires of
+Planetary
+War for
+AI
+-end(stop)
+ Man
+ Heroes
+ Empires
+ Nations
+ a Solar Empire
+ Annihilation
+ War
