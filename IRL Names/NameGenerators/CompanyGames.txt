@@ -1,0 +1,27 @@
+[REPLACE]
+-start(base)
+-base(stop)
+XBOX Game Studio
+Zachtronics
+Arkane
+Bethesda
+Mojang Studios
+Ninja Theory
+Obsidian
+Playground Games
+Roundhouse Studios
+Tango Gameworks
+The Coalition
+The Initiative
+Turn 10 Studios
+Double Fine
+Activision
+Blizzard
+Electronic Arts
+Bandai Namco Entertainment
+Konami
+Equinix
+Paradox
+Mimimi Games
+Daedalic Entertainment
+-end(stop)

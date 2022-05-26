@@ -1,0 +1,10 @@
+[REPLACE]
+-start(base)
+-base(stop)
+IBM
+Intel
+Solaris
+Symbian
+System 76
+Texas Instruments
+-end(stop)

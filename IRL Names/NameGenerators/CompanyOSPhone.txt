@@ -1,0 +1,7 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Motorola
+Nokia
+Qualcomm
+-end(stop)

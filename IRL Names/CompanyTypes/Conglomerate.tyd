@@ -1,0 +1,31 @@
+CompanyType
+	{
+	Specialization		"Conglomerate"
+	PerYear				0.2
+	Min					3
+	Max					6
+	NameGen             CompanyConglomerate
+	Types
+		[
+			{
+			Software	Game
+			Chance		0.1
+			}
+            {
+            Software	"Office Software"
+            Chance		0.5
+            }
+            {
+            Software	"Audio Tool"
+            Chance		0.5
+            }
+            {
+            Software	"Operating System"
+            Chance		1
+            }
+            {
+            Software	"Antivirus"
+            Chance		0.1
+            }
+		]
+	}

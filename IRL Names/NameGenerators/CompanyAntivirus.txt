@@ -1,0 +1,15 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Norton
+Bitdefender
+TrendMirco
+Avast
+Avira
+McAfee
+Sophos
+Webroot
+MalwareBytes
+ESET
+F-Secure
+-end(stop)

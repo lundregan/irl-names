@@ -1,0 +1,15 @@
+CompanyType
+	{
+	Specialization		"Antivirus"
+	PerYear				0.2
+	Min					2
+	Max					2
+	NameGen             CompanyAntivirus
+	Types
+		[
+			{
+			Software	"Antivirus"
+			Chance		1
+			}
+		]
+	}

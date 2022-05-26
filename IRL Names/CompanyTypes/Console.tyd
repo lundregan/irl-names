@@ -1,0 +1,20 @@
+CompanyType
+	{
+	Specialization		"Games Consoles and Games"
+	PerYear				0.2
+	Min					2
+	Max					3
+	NameGen             CompanyConsole
+	Types
+		[
+			{
+			Software	Game
+			Chance		0.5
+			}
+            {
+            Software	"Operating System"
+            Category	Console
+            Chance		0.1
+            }
+		]
+	}

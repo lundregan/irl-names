@@ -1,0 +1,15 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Google
+Microsoft
+Coredumping
+Amazon
+Meta
+Nvidia
+Amazon
+Tencent
+Apple
+AMD
+Atlassian
+-end(stop)

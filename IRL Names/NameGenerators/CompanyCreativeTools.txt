@@ -1,0 +1,9 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Autodesk
+Adobe
+Twine
+Daz
+Lastsoftware
+-end(stop)

@@ -1,0 +1,10 @@
+[REPLACE]
+-start(base)
+-base(stop)
+Sony
+Nintendo
+Microsoft
+Sega
+Micro Genius
+Valve
+-end(stop)
